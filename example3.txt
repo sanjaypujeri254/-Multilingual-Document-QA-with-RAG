@@ -1,0 +1,3 @@
+Sample TXT Document.
+This text file is included to test the system's ability to handle TXT files.
+You can query this content using the QA interface.

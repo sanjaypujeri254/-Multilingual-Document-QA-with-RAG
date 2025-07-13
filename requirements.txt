@@ -1,0 +1,14 @@
+langchain
+openai
+faiss-cpu
+sentence-transformers
+streamlit
+PyPDF2
+python-docx
+unstructured
+gTTS
+speechrecognition
+pyaudio
+chromadb
+langdetect
+elasticsearch
