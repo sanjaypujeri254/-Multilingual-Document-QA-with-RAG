@@ -103,3 +103,9 @@ Access services:
 - Integrate Hugging Face LLM backends
 - Build query analytics and usage dashboards
 - Implement user authentication and session tracking
+
+  
+---
+## Main Dashboard Image
+<img width="1536" height="1024" alt="Main" src="https://github.com/user-attachments/assets/5f1f2c2a-6b12-461c-ba0c-20428017e1a6" />
+---
